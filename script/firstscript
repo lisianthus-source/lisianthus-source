@@ -1,0 +1,8 @@
+#!/bin/bash
+#
+# This is a test to see if I can check some code into my github area and run a little messaging script
+#
+#
+echo "-----------------------------------------------"
+echo "  Hello - Welcome to Crumbles github development!"
+echo "-----------------------------------------------"
